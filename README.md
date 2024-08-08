@@ -1,7 +1,7 @@
 ### Boas vindas ao meu perfil :
 - 👋 Hi, I’m Santos
 - 👀 I’m interested in Hizadora
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Alura
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  00001135375161sp@al.educacao.sp.gov.br
 - 😄 Pronouns: ela/dela
